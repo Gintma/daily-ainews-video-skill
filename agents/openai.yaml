@@ -1,0 +1,8 @@
+interface:
+  display_name: "Daily News Video"
+  short_description: "Generate researched daily news videos."
+  brand_color: "#FF4A1C"
+  default_prompt: "Use $daily-news-video to create a Chinese 9:16 daily AI news video from the past 24 hours."
+
+policy:
+  allow_implicit_invocation: true
