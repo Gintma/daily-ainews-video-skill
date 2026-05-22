@@ -5,8 +5,8 @@
 ## 中文
 
 ## Demo / 示例
-
-https://github.com/user-attachments/assets/69fcd767-3c17-4d53-9d21-b3b31bf22e04
+ 
+https://github.com/user-attachments/assets/973403de-59e8-4331-b2fc-47eeb63de7a0
 
 这是一个用于 Codex 的日报视频 skill。它可以联网搜索新闻，整理中文文案，生成 HyperFrames 竖屏视频页面，使用本地 VoxCPM 生成统一音色旁白，拼接旁白和 BGM，最后渲染成 9:16 MP4。
 
