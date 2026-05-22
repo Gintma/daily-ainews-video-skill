@@ -1,9 +1,5 @@
 # Daily News Video Skill / AI 日报视频 Skill
 
-> 中文说明在前，English follows.
-
-## 中文
-
 ## Demo / 示例
  
 https://github.com/user-attachments/assets/973403de-59e8-4331-b2fc-47eeb63de7a0
@@ -122,10 +118,6 @@ MIT
 ---
 
 ## English
-
-## Demo
-
-https://github.com/user-attachments/assets/69fcd767-3c17-4d53-9d21-b3b31bf22e04
 
 Daily News Video Skill is a Codex skill for generating Chinese vertical daily news videos. It researches fresh news, drafts Chinese scripts, creates HyperFrames story compositions, generates local VoxCPM narration, stitches voice and BGM, and renders a 9:16 MP4.
 
